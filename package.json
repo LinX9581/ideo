@@ -1,0 +1,23 @@
+{
+  "name": "mongosocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.15.5",
+    "mongodb": "^2.2.35",
+    "socket.io": "^1.7.4"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "8.9.1",
+    "npm": "6.1.0"
+  }
+}
